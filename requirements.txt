@@ -1,3 +1,4 @@
 python3
 keras
 opencv
+soketio=4.2.1
