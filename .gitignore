@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# macos
+__MACOSX
+
+# windows
+*.exe
+*.jpg
+*.old
+Default Windows desktop 64-bit_Data
