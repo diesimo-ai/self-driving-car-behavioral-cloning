@@ -1,6 +1,6 @@
 # Overview
 
-![igm](outro\sim.png)
+![img](.\outro\sim.png)
 
 This is a full self-driving car simulator based on Computer Vision and [NVIDIA CNN model for Self-driving car](https://github.com/afondiel/full-self-driving-car-simulation/tree/main/doc)
 
