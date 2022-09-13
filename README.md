@@ -6,7 +6,7 @@ I ran Udacity self-driving car simulator intended for NanoDegree program (for Se
 
 After training the NVIDIA machine learning model with the collected data I save the model (you can modify the model to increase its accuracy)
 
-Finally I run the simulator to clone the self-driving behavior based on the pretrained model but on real time test dataset  
+Finally I run the simulator in autonomy to clone the self-driving behavior based on the pretrained model but on real time test dataset  
 
 # Requirements tools
 
