@@ -46,4 +46,4 @@ Be free to reach me and pull request. Ideas worth spreading ;)
 
 > "As soon as it works, no one calls it AI anymore." 
 >
-> — John McCarthy (AI effect)*
+> — John McCarthy (AI effect)
