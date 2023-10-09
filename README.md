@@ -60,6 +60,10 @@ After collecting the training data the simulator generates an `IMG` folder conta
 
 This is because the car has 3 cameras: front left, front right and windshield camera
 
+**Convolutional Neural Network (CNN) Implementation, Training and Testing**
+
+The implementation, training and testing of the ConvNet is covered in this [notebook](./notebooks/full-self-driving-car-behavior-cloning.ipynb). 
+
 ## Application
 
 Behavioral cloning is a type of imitation learning and offers many benefits when it comes to develop autonomous systems: 
@@ -73,7 +77,7 @@ Behavioral cloning is a type of imitation learning and offers many benefits when
 ## Usage 
 
 - Start the simulator in `autonomous mode` 
-- To run the app as follow:
+- execute the following command to start driving!
 
 ```sh
 python main.py
