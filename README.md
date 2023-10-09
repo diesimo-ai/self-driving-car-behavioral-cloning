@@ -102,7 +102,7 @@ If you want to help this project grow, feel free to submmit a PR or open an issu
 
 ## References
 
-- [1] [End to End Learning for Self-Driving Cars 2016 paper - NVIDIA]([gssgdqsg](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf))
+- [1] [End to End Learning for Self-Driving Cars 2016 paper - NVIDIA](https://images.nvidia.com/content/tegra/automotive/images/2016/solutions/pdf/end-to-end-dl-using-px.pdf)
 - [2] [End-to-End Deep Learning for Self-Driving Cars - paper presentation - Blog article](https://developer.nvidia.com/blog/deep-learning-self-driving-cars/)
 - [3] [Exploring the Limitations of Behavior Cloning for Autonomous Driving - CVF - Toyota Research Institute  - ICCV 2019](https://openaccess.thecvf.com/content_ICCV_2019/papers/Codevilla_Exploring_the_Limitations_of_Behavior_Cloning_for_Autonomous_Driving_ICCV_2019_paper.pdf)
 
