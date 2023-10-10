@@ -1,4 +1,6 @@
-python3
 keras
 opencv
-soketio=4.2.1
+soketio>=4.2.1
+eventlet
+flask
+pillow
