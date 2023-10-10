@@ -1,4 +1,4 @@
-# AI Project Template
+# Cookiecutter AI Project Template
 
 
 ```
