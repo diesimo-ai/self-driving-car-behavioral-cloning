@@ -1,6 +1,6 @@
 keras
 opencv
+flask
 soketio>=4.2.1
 eventlet
-flask
 pillow

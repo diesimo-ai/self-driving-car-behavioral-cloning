@@ -12,12 +12,14 @@
 #   <numpy> : standard library
 #		- Provides multidimensional arrays and linear algebra tools, optimized for speed
 #
-# File history :
+# Revisions:
 # Afondiel  |  14.03.2021 | Creation 
-# Afondiel  |  13.09.2022 | Last modification
+# Afondiel  |  12.09.2023 | Last modification
 #  
 import os
 import sys
+import argparse
+import logging
 import socketio
 import eventlet
 import numpy as np
@@ -28,6 +30,9 @@ from io import BytesIO
 from PIL import Image
 import cv2
 # from src import drive
+
+# local packages
+## import src.settings
 
 # real time communication between client and server 
 sio = socketio.Server()
@@ -74,7 +79,7 @@ def send_control(steering_angle, throttle):
 if __name__ == '__main__':
     # load the model
     # model = load_model('model.h5')
-    model = load_model('.\data\models\model_gen.h5')
+    model = load_model('.\models\model_gen.h5')
     # combine sio and flask
     # middleware to dispatch the data between sio and app
     app = socketio.Middleware(sio, app)
